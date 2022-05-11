@@ -1,0 +1,4 @@
+Guardium problem process or configuration.
+a) Problem with Guardium syslog configuration.
+b) Problem with other Guardium configuration or process.
+2. Non-Guardium problem process or configuration.
