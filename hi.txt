@@ -1,2 +1,4 @@
 hi hello
 git commited changes
+by using git fetch and merge we can changes remote repo content.
+first by git fetch then no changes in remote repo then by applying git merge then we can see changes whatever we want to changes.
